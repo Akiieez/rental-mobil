@@ -64,3 +64,5 @@ Pull request dipersilakan! Pastikan untuk membuat issue terlebih dahulu sebelum 
 
 📜 Lisensi
 Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
+
+Donasi bisa melalui (https://saweria.co/Akiieez)
