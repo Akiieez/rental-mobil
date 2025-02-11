@@ -34,7 +34,7 @@ Aktifkan Apache dan MySQL di XAMPP Control Panel
 
 Buka http://localhost/phpmyadmin/
 Buat database baru dengan nama rental_mobil
-Import file database.sql yang ada di folder proyek
+Import file rental_mobil.sql yang ada di folder proyek
 
 5️⃣ Konfigurasi Database
 Edit file config.php dan sesuaikan:
